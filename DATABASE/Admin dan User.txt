@@ -1,0 +1,2 @@
+admin: hafid@gmail.com pass : hafid
+user : customer@gmail.com pass : customer
